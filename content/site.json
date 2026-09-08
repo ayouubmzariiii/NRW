@@ -1,0 +1,508 @@
+{
+  "name": "NRW-Haushaltsauflösung",
+  "legalName": "NRW-Haushaltsauflösung",
+  "owner": "Marco van der Sande",
+  "ownerRole": "Geschäftsführer",
+  "founded": 2010,
+  "url": "https://www.nrw-haushaltsaufloesung.de",
+  "email": "kontakt@nrw-haushaltsaufloesung.de",
+  "phoneMobile": "0177 866 70 16",
+  "phoneMobileHref": "tel:+4917786670160",
+  "phoneMobileHrefPlain": "tel:01778667016",
+  "phoneFree": "0800 222 10 222",
+  "phoneFreeHref": "tel:080022210222",
+  "phoneOffice": "0211 976 29 98",
+  "phoneOfficeHref": "tel:021197629 98",
+  "fax": "0211 416 558 82",
+  "address": {
+    "street": "Peenemünderstr. 6",
+    "zip": "40595",
+    "city": "Düsseldorf",
+    "country": "Deutschland"
+  },
+  "taxOffice": "Finanzamt Düsseldorf",
+  "taxNumber": "106/5302/4220",
+  "region": "Nordrhein-Westfalen",
+  "video": {
+    "id": "_VtnhXLs_LU",
+    "title": "NRW Haushaltsauflösung Imagefilm",
+    "poster": "/images/wp/2025-09-nrw-haushaltsaufloesung-marco.webp"
+  },
+  "videoSocial": {
+    "id": "yopUJ-1NAcQ",
+    "title": "NRW Haushaltsauflösung – Soziales Engagement"
+  },
+  "rating": {
+    "value": 4.97,
+    "best": 5,
+    "count": 137,
+    "label": "Sehr Gut",
+    "provider": "AUSGEZEICHNET.org",
+    "url": "https://www.ausgezeichnet.org/bewertungen-nrw-haushaltsaufloesung.de-HOYOM-5FCGZG",
+    "note": "Gesamtbewertung aus AUSGEZEICHNET.org und Google, Stand August 2026",
+    "sources": [
+      {
+        "id": "ausgezeichnet",
+        "name": "AUSGEZEICHNET.org",
+        "value": 4.96,
+        "count": 112,
+        "label": "Sehr Gut",
+        "url": "https://www.ausgezeichnet.org/bewertungen-nrw-haushaltsaufloesung.de-HOYOM-5FCGZG",
+        "note": "Verifiziertes Profil, Anbieter reagiert auf Bewertungen",
+        "seal": "/images/wp/2025-09-ausgezeichnet-bewertung.webp"
+      },
+      {
+        "id": "google",
+        "name": "Google",
+        "value": 5.0,
+        "count": 25,
+        "label": "Sehr Gut",
+        "url": "https://www.google.com/search?q=NRW-Haushaltsaufl%C3%B6sung+D%C3%BCsseldorf",
+        "note": "Google-Rezensionen zum Unternehmen"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "2.500+",
+      "label": "Aufträge",
+      "detail": "erfolgreich abgeschlossen"
+    },
+    {
+      "value": "2010",
+      "label": "Gegründet",
+      "detail": "seit über 15 Jahren im Einsatz"
+    },
+    {
+      "value": "100 %",
+      "label": "Festpreisgarantie",
+      "detail": "keine versteckten Kosten"
+    },
+    {
+      "value": "24/7",
+      "label": "Erreichbar",
+      "detail": "auch an Sonn- und Feiertagen"
+    }
+  ],
+  "benefits": [
+    {
+      "id": "besichtigung",
+      "title": "Gratis Besichtigung",
+      "text": "Da wir permanent in ganz NRW tätig sind, können wir Ihnen die Besichtigung und Angebotserstellung absolut kostenlos und unverbindlich anbieten."
+    },
+    {
+      "id": "wertanrechnung",
+      "title": "Wertanrechnung",
+      "text": "Wir kaufen nicht nur Möbel und Elektrogeräte an, sondern auch den gesamten verwertbaren Hausrat."
+    },
+    {
+      "id": "festpreis",
+      "title": "Garantierter Festpreis",
+      "text": "Unser Angebot enthält einen garantierten Festpreis. Bei uns gibt es zu 100 % keine versteckten Kosten."
+    },
+    {
+      "id": "schluessel",
+      "title": "Schlüssel-abgabefertig",
+      "text": "Besenrein? Nicht nur! Wir entfernen auch Schrauben, Nägel, Teppiche, Wandverkleidungen uvm."
+    },
+    {
+      "id": "express",
+      "title": "24/7 Expressdienst",
+      "text": "Kurzfristige Besichtigungen und Räumungen stellen für uns kein Problem dar. Räumungen stellen wir auch an einem Tag fertig."
+    },
+    {
+      "id": "versicherung",
+      "title": "Betriebshaftpflicht-Versicherung",
+      "text": "Damit sowohl wir, als auch Sie rund um abgesichert sind."
+    }
+  ],
+  "process": [
+    {
+      "title": "Gratis Besichtigung",
+      "text": "Kostenlose und unverbindliche Besichtigung in ganz NRW."
+    },
+    {
+      "title": "Wertermittlung & Festpreis",
+      "text": "Gratis Wertermittlung des Hausrats & Festpreisangebot direkt vor Ort."
+    },
+    {
+      "title": "Räumung",
+      "text": "Innerhalb von einem Tag besenrein & schlüsselabgabefertig geräumt."
+    },
+    {
+      "title": "Übergabe",
+      "text": "Schlüsselübergabe beim Kunden, Vermieter oder postalisch."
+    },
+    {
+      "title": "Entsorgungsnachweis",
+      "text": "Auf Wunsch Ausstellung eines Entsorgungsnachweises."
+    }
+  ],
+  "philosophy": [
+    {
+      "title": "Schnell",
+      "text": "Wir halten auch kurzfristige Termine zuverlässig ein."
+    },
+    {
+      "title": "Genau",
+      "text": "Wir hinterlassen jedes Objekt so, wie es vereinbart wurde."
+    },
+    {
+      "title": "Diskret",
+      "text": "Ihre Anliegen behandeln wir stets vertraulich und mit Respekt."
+    },
+    {
+      "title": "Professionell",
+      "text": "Unser Anspruch ist es, durch Qualität und Sorgfalt einen bleibend positiven Eindruck zu hinterlassen."
+    }
+  ],
+  "reasons": [
+    {
+      "title": "Umfassender Service",
+      "text": "Von kleinen Wohnungen bis zu großen Geschäftsflächen."
+    },
+    {
+      "title": "Regionale Nähe",
+      "text": "Wir sind in ganz NRW für Sie im Einsatz."
+    },
+    {
+      "title": "Erfahrung & Kompetenz",
+      "text": "Viele erfolgreich durchgeführte Entrümpelungen und Haushaltsauflösungen."
+    },
+    {
+      "title": "Transparente Preise",
+      "text": "Klare Vereinbarungen ohne versteckte Kosten."
+    }
+  ],
+  "services": [
+    {
+      "slug": "haushaltsaufloesung-wohnungsaufloesung",
+      "path": "/haushaltsaufloesung-wohnungsaufloesung/",
+      "title": "Haushaltsauflösung & Wohnungsauflösung",
+      "short": "Haushaltsauflösung",
+      "text": "Komplette Auflösung von Wohnungen und Häusern – nach Todesfall, Umzug oder Auswanderung. Besenrein und schlüsselabgabefertig zum vereinbarten Termin.",
+      "image": "/images/wp/2025-09-moebel-ausraeumen2x3.webp",
+      "imageAlt": "Mitarbeiter von NRW-Haushaltsauflösung tragen Möbel aus einer Wohnung",
+      "highlight": "Besenrein & schlüsselabgabefertig",
+      "covers": [
+        "Wohnung",
+        "Haus",
+        "Keller",
+        "Dachboden",
+        "Garage",
+        "Nachlass"
+      ]
+    },
+    {
+      "slug": "entruempelung",
+      "path": "/entruempelung/",
+      "title": "Entrümpelung",
+      "short": "Entrümpelung",
+      "text": "Keller, Dachboden, Garage oder ganze Etagen: Wir schaffen Platz – fachgerecht entsorgt, mit Wertanrechnung und auf Wunsch mit Entsorgungsnachweis.",
+      "image": "/images/wp/2025-09-kueche-entruempelung2x3.webp",
+      "imageAlt": "Küchen-Entrümpelung durch das Team von NRW-Haushaltsauflösung",
+      "highlight": "Mit fairer Wertanrechnung",
+      "covers": [
+        "Keller",
+        "Dachboden",
+        "Garage",
+        "Messie-Wohnung",
+        "Gartenhaus",
+        "Sperrmüll"
+      ]
+    },
+    {
+      "slug": "bueroaufloesung-praxisaufloesung",
+      "path": "/bueroaufloesung-praxisaufloesung/",
+      "title": "Büroauflösung & Praxisauflösung",
+      "short": "Büro & Praxis",
+      "text": "Geschäftsauflösungen mit datenschutzkonformer Aktenvernichtung, Demontage und Wertanrechnung – meist innerhalb eines Tages abgeschlossen.",
+      "image": "/images/wp/2025-09-bueroaufloesung.webp",
+      "imageAlt": "Büroauflösung: Mitarbeiter transportiert Büromöbel",
+      "highlight": "Datenschutzkonforme Aktenvernichtung",
+      "covers": [
+        "Büro",
+        "Praxis",
+        "Ladenlokal",
+        "Lager",
+        "Gastronomie",
+        "Demontage"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "path": "/nachlassankauf/",
+      "title": "Nachlassankauf",
+      "text": "Faire Bewertung und Ankauf des gesamten Nachlasses."
+    },
+    {
+      "path": "/seniorenumzug/",
+      "title": "Seniorenumzug",
+      "text": "Umzug ins Pflegeheim oder die kleinere Wohnung – mit Auflösung der alten."
+    },
+    {
+      "path": "/messie-raeumung/",
+      "title": "Messie-Räumung",
+      "text": "Diskret, respektvoll und in einem Tag erledigt."
+    },
+    {
+      "path": "/zwangsraeumung/",
+      "title": "Zwangsräumung",
+      "text": "Für Vermieter, Hausverwaltungen und Gerichtsvollzieher."
+    },
+    {
+      "path": "/mietnomaden/",
+      "title": "Mietnomaden",
+      "text": "Räumung und Wiederherstellung nach Mietausfall."
+    },
+    {
+      "path": "/umzug-transporte/",
+      "title": "Umzug & Transporte",
+      "text": "Vom Appartment bis zum Bürokomplex, inkl. Möbelmontage."
+    },
+    {
+      "path": "/demontage/",
+      "title": "Demontage",
+      "text": "Vom Kleiderschrank bis zur Einbauküche oder Palettenregalen."
+    },
+    {
+      "path": "/wertanrechnung/",
+      "title": "Wertanrechnung",
+      "text": "So senkt Ihr Hausrat den Preis der Räumung."
+    },
+    {
+      "path": "/hausaufloesung/",
+      "title": "Hausauflösung",
+      "text": "Komplette Häuser inkl. Keller, Dachboden und Garage."
+    },
+    {
+      "path": "/messiewohnung/",
+      "title": "Messiewohnung",
+      "text": "Hilfe für Betroffene und Angehörige."
+    },
+    {
+      "path": "/entruempelung-guenstig/",
+      "title": "Entrümpelung günstig",
+      "text": "Faire Preise durch Wertanrechnung und Partner-Deponien."
+    },
+    {
+      "path": "/haushaltsaufloesung-guenstig/",
+      "title": "Haushaltsauflösung günstig",
+      "text": "Unschlagbare Festpreise ohne Nachverhandlung."
+    },
+    {
+      "path": "/wohnungsaufloesung-guenstig/",
+      "title": "Wohnungsauflösung günstig",
+      "text": "Wohnungen jeder Größe zum Festpreis."
+    },
+    {
+      "path": "/entruempelung-wertanrechnung/",
+      "title": "Entrümpelung mit Wertanrechnung",
+      "text": "Verwertbares wird direkt angerechnet."
+    },
+    {
+      "path": "/haushaltsaufloesung-wertanrechnung/",
+      "title": "Haushaltsauflösung mit Wertanrechnung",
+      "text": "Vom Möbelstück bis zum Schmuck – alles wird bewertet."
+    },
+    {
+      "path": "/wohnungsaufloesung-mit-wertanrechnung/",
+      "title": "Wohnungsauflösung mit Wertanrechnung",
+      "text": "Zuverlässig, schnell und mit fairer Anrechnung."
+    },
+    {
+      "path": "/nachlassankauf-duesseldorf/",
+      "title": "Nachlassankauf Düsseldorf",
+      "text": "Vertrauenswürdige Begutachtung direkt vor Ort."
+    },
+    {
+      "path": "/seniorenumzug-duesseldorf/",
+      "title": "Seniorenumzug Düsseldorf",
+      "text": "365 Tage im Jahr für Sie im Einsatz."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Wie wird eine Wertanrechnung bei der Haushaltsauflösung durchgeführt?",
+      "a": "Bei der Besichtigung begutachten wir das gesamte Inventar/den Hausrat. Sämtliche verwertbaren Gegenstände werden preismindernd berücksichtigt. Wir teilen Ihnen direkt vor Ort den Wert mit. Zur Wertanrechnung gilt von Möbeln bis Kücheninventar und Deko alles, was noch Wert hat. Selbstverständlich kaufen wir auch Gold, Schmuck und sonstige Edelmetalle zu tagesaktuellen Kursen. Es ist also für Sie wichtig, jemanden wie uns mit einem geschulten Auge zu haben, der sofort verschiedenste Gegenstände einschätzen kann. Von Porzellan bis Antiquitäten, Kunst und vielem mehr sind unsere Mitarbeiter bestens geschult – der „normale Endverbraucher“ könnte Wertgegenstände leicht übersehen und falsch einschätzen. Die Wertanrechnung ist kein Muss für die Haushaltsauflösung: Sie ist optional und Sie können sich nach unserem Angebot in Ruhe entscheiden."
+    },
+    {
+      "q": "Was fällt unter den Festpreis bei einer Haushaltsauflösung?",
+      "a": "Sämtliche Arbeiten betreffend der Haushaltsauflösung fallen unter den vereinbarten Festpreis. Dieser bezieht sich auf die besichtigten Räume: Wir besichtigen das Objekt und alle zu räumenden Räume und Anbauten, Keller, Dachgeschoss usw. Selbstverständlich sind auch die Kosten für eine fach- und umweltgerechte Entsorgung inbegriffen. Nach unserer Räumung ist das Objekt schlüsselabgabefertig und besenrein. An- und Abfahrt sowie das Entfernen von Nägeln, Schrauben o. Ä. von den Wänden sind ebenfalls inklusive."
+    },
+    {
+      "q": "Was ist der Unterschied zwischen einer Entrümpelung und einer Haushaltsauflösung?",
+      "a": "Für viele sind die Begriffe gleichgesetzt. Korrekterweise unterscheidet man aber nach dem Sinn der Leistung: Sie können zum Beispiel einfach einen Keller entrümpeln lassen und dennoch weiter dort wohnen. Bei einer Haushaltsauflösung hingegen wird der Haushalt aufgelöst und nicht weitergeführt – etwa bei einem Seniorenumzug, nach einem Todesfall oder bei einer Auswanderung. Ziel ist hier nicht nur, Platz zu schaffen, sondern das Objekt besenrein an den Vermieter oder Käufer zu übergeben."
+    },
+    {
+      "q": "Ist die Besichtigung und Anfahrt bei einer Haushaltsauflösung kostenlos?",
+      "a": "Ja – wir arbeiten in ganz NRW und können jederzeit absolut unverbindlich und kostenlos das Objekt besichtigen. Dabei entstehen keinerlei Verbindlichkeiten. Wir bieten diesen Service an, um Ihnen ein passgenaues Angebot zu erstellen – unabhängig davon, ob Sie uns danach beauftragen. Sie erhalten vor Ort ein individuelles Festpreisangebot inkl. Wertanrechnung auf Wunsch und können sich danach in aller Ruhe entscheiden."
+    },
+    {
+      "q": "Was passiert bei Schäden während einer Haushaltsauflösung?",
+      "a": "Schäden entstehen meist, wenn ungeschultes oder unerfahrenes Personal eine Räumung versucht – an Türen, im Treppenhaus oder Schlimmeres. Wir hatten damit bisher keine Probleme. Sollte dennoch etwas zu Bruch gehen oder beschädigt werden, haben wir eine Betriebshaftpflichtversicherung, die alles abdeckt. Somit sind Sie immer auf der sicheren Seite, wenn Sie uns beauftragen."
+    },
+    {
+      "q": "Was bedeutet eine schlüsselabgabefertige Haushaltsauflösung?",
+      "a": "Das Objekt ist zum genannten Termin in einem besenreinen Zustand, sodass es an Vermieter, Nachmieter oder Käufer ohne Probleme übergeben werden kann. Damit Ihrer Kaution oder dem Kaufpreis nichts abgezogen wird, gewährleisten wir nach geltenden Standards den korrekten Zustand des Objekts. Auf Wunsch übernehmen wir die Übergabe direkt mit dem Vermieter, Nachmieter oder Käufer und tragen dafür Sorge, dass alles in Ordnung ist."
+    },
+    {
+      "q": "Ist es ggf. günstiger, die Haushaltsauflösung selbst durchzuführen?",
+      "a": "Das kann man nicht pauschalisieren, aber meist ist dem nicht so. Die Entsorgungskosten sind zuletzt stark gestiegen; wir haben durch die langjährige Partnerschaft mit unserer Mülldeponie sehr gute Preise. Rechnet man Arbeit, Transporter, ggf. Container und Entsorgung zusammen, wird es schwer, die Arbeit günstiger umzusetzen. Und selbst dann rechtfertigt der Preisunterschied vermutlich nicht Ihre investierte Zeit im Feierabend. Hinzu kommt, dass nur ein Fachmann sämtliche Werte des Hausrats marktgerecht beurteilen und sofort aufkaufen kann."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sylvia K.",
+      "date": "2026-08-15",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Top-Leistung zum fairen Preis",
+      "text": "Die Dienstleistung dieses Unternehmens ist jeden Cent wert. Dabei ist das Festpreis-Leistungsangebot sehr fair. Und: es gibt auch noch eine Wertanrechnung. Diverse Waren werden noch verwertet und weitergegeben und nicht einfach weggeworfen. Der Chef und sein Team haben hier alles im Griff. Die Kommunikation läuft direkt, schnell, unkompliziert – egal ob Telefon, E-Mail oder WhatsApp."
+    },
+    {
+      "name": "Peti aus O.",
+      "date": "2026-05-31",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Supergute Arbeit trotz 30 Grad im Schatten",
+      "text": "Wir hatten eine Wohnungsauflösung im 3. Stock Altbau in Düsseldorf. Ohne Aufzug! Die Firma kam mit 8 Mitarbeitern und schaffte es, innerhalb von 8 Stunden die 95 qm große Wohnung auszuräumen und besenrein zu verlassen. Danach wurde noch das gesamte Treppenhaus gesäubert. Die Mitarbeiter waren freundlich und humorvoll."
+    },
+    {
+      "name": "Hoeren/Kapolzinski",
+      "date": "2025-12-08",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Freundlich, sympathisch und sehr korrekt",
+      "text": "Die Wohnung meiner Mutter wurde aufgelöst. Ein schwerer Schritt für mich als Tochter. Gelöst wurde es von dieser Firma mit viel Feingefühl, absoluter Korrektheit, Professionalität, Sauberkeit und einem guten Preis durch Wertanrechnung. Kein Hauruck, sondern ein sympathischer zwischenmenschlicher Ablauf. Empfehlenswert!"
+    },
+    {
+      "name": "M. Steffens",
+      "date": "2025-11-27",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Einfach perfekt!",
+      "text": "Die Firma ist absolut empfehlenswert! Die Arbeiten werden präzise und schnell ausgeführt. Nette und kompetente Mitarbeiter geben einem das Gefühl, gut aufgehoben zu sein. Perfekter Service!"
+    },
+    {
+      "name": "Peter Nolte",
+      "date": "2025-07-11",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Haushaltsauflösung",
+      "text": "Ein super Team – ratz fatz und die Wohnung war leer. Eine super Truppe, wenn man Hilfe braucht sind sie da. Preiswert und zuverlässig, einfach nur Spitze. Von mir alle Sterne."
+    },
+    {
+      "name": "Iris Wittke",
+      "date": "2024-12-09",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Top Team, nur zu empfehlen",
+      "text": "Alles zu meiner Zufriedenheit. Einen kompletten Haushalt aufgelöst. Schnell, zuverlässig und zu einem fairen Preis. Kann und werde ich auch weiterempfehlen."
+    },
+    {
+      "name": "Nadine",
+      "date": "2024-11-05",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Einfach super klasse",
+      "text": "Bin mega zufrieden, alles ist super gelaufen. Weiter so – jedem zu empfehlen!"
+    },
+    {
+      "name": "Ralf Schacher",
+      "date": "2024-10-30",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Absolut empfehlenswert",
+      "text": "Schnell, unkompliziert, zuverlässig, preiswert – alles tiptop."
+    },
+    {
+      "name": "Volker aus Köln",
+      "date": "2024-08-14",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Super Arbeit",
+      "text": "Bin mit der Wohnungsauflösung voll zufrieden, Preis-Leistung ist nicht zu toppen, saubere Arbeit."
+    },
+    {
+      "name": "Kolibri",
+      "date": "2024-08-01",
+      "rating": 5,
+      "source": "ausgezeichnet",
+      "title": "Superguter und verlässlicher Service",
+      "text": "Alles hat super geklappt: Pünktlichkeit, sehr gute, verlässliche und schnelle Arbeit. Die Wohnung war nach der Räumung in einem sehr guten Zustand."
+    }
+  ],
+  "regions": [
+    {
+      "name": "Düsseldorf & Kreis Mettmann",
+      "cities": [
+        "duesseldorf",
+        "ratingen",
+        "erkrath",
+        "hilden",
+        "haan",
+        "mettmann",
+        "heiligenhaus",
+        "velbert",
+        "langenfeld",
+        "monheim"
+      ]
+    },
+    {
+      "name": "Rheinland & Köln",
+      "cities": [
+        "koeln",
+        "leverkusen",
+        "bergisch-gladbach",
+        "odenthal",
+        "burscheid",
+        "dormagen"
+      ]
+    },
+    {
+      "name": "Rhein-Kreis Neuss & Niederrhein",
+      "cities": [
+        "neuss",
+        "grevenbroich",
+        "meerbusch",
+        "krefeld",
+        "willich",
+        "toenisvorst",
+        "kempen",
+        "viersen",
+        "moenchengladbach",
+        "moers",
+        "dinslaken"
+      ]
+    },
+    {
+      "name": "Ruhrgebiet",
+      "cities": [
+        "duisburg",
+        "muelheim-an-der-ruhr",
+        "oberhausen",
+        "essen",
+        "bottrop",
+        "gladbeck",
+        "gelsenkirchen",
+        "herne",
+        "bochum",
+        "hattingen"
+      ]
+    },
+    {
+      "name": "Bergisches Land",
+      "cities": [
+        "wuppertal",
+        "solingen",
+        "remscheid",
+        "wermelskirchen",
+        "radevormwald",
+        "schwelm",
+        "ennepetal"
+      ]
+    }
+  ]
+}
