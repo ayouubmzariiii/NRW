@@ -387,10 +387,11 @@ export function PageHero({ eyebrow, title, lead, crumbs, image, imageAlt, childr
           <h1 className={clsx("display-xl text-balance", dark && "text-white")}>{title}</h1>
           {lead && <div className={clsx("mt-4 max-w-2xl text-[1rem] leading-relaxed text-pretty sm:mt-5 sm:text-lg", dark ? "text-sage-200" : "text-muted")}>{lead}</div>}
         </div>
+        {/* Desktop only: on phones the portrait pushed the actions below the fold. Not preloaded, so phones never fetch it. */}
         {image && (
-          <div className="relative mx-auto w-full max-w-[12.5rem] sm:max-w-xs lg:col-span-4 lg:row-span-2 lg:row-start-1 lg:ml-auto lg:max-w-[20rem] lg:self-center">
+          <div className="relative hidden w-full lg:col-span-4 lg:row-span-2 lg:row-start-1 lg:ml-auto lg:block lg:max-w-[20rem] lg:self-center">
             <div className="relative aspect-[4/5] overflow-hidden rounded-[2rem] shadow-lift">
-              <Image src={image} alt={imageAlt ?? ""} fill priority sizes="(min-width: 1024px) 480px, 90vw" quality={75} className="object-cover" />
+              <Image src={image} alt={imageAlt ?? ""} fill sizes="320px" quality={75} className="object-cover" />
               {badge && <div className="absolute inset-x-0 bottom-0 hidden bg-gradient-to-t from-forest-950 via-forest-950/75 to-transparent p-4 pt-10 text-white sm:block">{badge}</div>}
             </div>
           </div>
@@ -409,7 +410,7 @@ export function HeroActions({ primaryHref = "/kontakt/", primaryLabel = "Kostenl
         <Button href={SITE.phoneMobileHrefPlain} variant={dark ? "primary" : "outline"} size="lg"><PhoneIcon className={clsx("h-5 w-5 shrink-0", !dark && "text-leaf-700")} /> {SITE.phoneMobile}</Button>
       </div>
       <div className={clsx("mt-4 flex flex-wrap items-center gap-x-5 gap-y-2 text-sm sm:mt-5", dark ? "text-sage-200" : "text-muted")}>
-        <Link href="/bewertungen/" className={clsx("inline-flex items-center gap-2 rounded-full px-3.5 py-1.5 text-[0.8rem] font-semibold shadow-soft sm:text-sm", dark ? "bg-white/10 text-white" : "bg-white text-ink")}><Stars size="h-3.5 w-3.5" /> {SITE.rating.value.toLocaleString("de-DE")} {SITE.rating.label} · {SITE.rating.count} Bewertungen</Link>
+        <Link href="/bewertungen/" prefetch={false} className={clsx("inline-flex items-center gap-2 rounded-full px-3.5 py-1.5 text-[0.8rem] font-semibold shadow-soft sm:text-sm", dark ? "bg-white/10 text-white" : "bg-white text-ink")}><Stars size="h-3.5 w-3.5" /> {SITE.rating.value.toLocaleString("de-DE")} {SITE.rating.label} · {SITE.rating.count} Bewertungen</Link>
         <span className="hidden items-center gap-1.5 sm:inline-flex"><CheckIcon className="h-4 w-4 text-leaf-600" /> Keine Vorauszahlung</span>
         <span className="hidden items-center gap-1.5 sm:inline-flex"><CheckIcon className="h-4 w-4 text-leaf-600" /> Festpreis vor Ort</span>
       </div>

@@ -36,7 +36,7 @@ export default function HomePage() {
           <div className="lg:col-span-7">
             <div className="flex flex-wrap items-center gap-2">
               <span className="inline-flex items-center gap-2 rounded-full bg-forest-950 px-3.5 py-1.5 text-xs font-bold text-white"><span className="h-2 w-2 rounded-full bg-leaf-400" /> Seit {SITE.founded} in ganz NRW</span>
-              <Link href="/bewertungen/" className="inline-flex items-center gap-2 rounded-full bg-white px-3.5 py-1.5 text-xs font-bold text-ink shadow-soft"><Stars size="h-3.5 w-3.5" /> {SITE.rating.value.toLocaleString("de-DE")} · {SITE.rating.label} · {SITE.rating.count} Bewertungen</Link>
+              <Link href="/bewertungen/" prefetch={false} className="inline-flex items-center gap-2 rounded-full bg-white px-3.5 py-1.5 text-xs font-bold text-ink shadow-soft"><Stars size="h-3.5 w-3.5" /> {SITE.rating.value.toLocaleString("de-DE")} · {SITE.rating.label} · {SITE.rating.count} Bewertungen</Link>
             </div>
             <ReviewSourceStrip className="mt-4" />
             <h1 className="display-xl mt-7 text-balance text-ink">
@@ -56,12 +56,12 @@ export default function HomePage() {
             </ul>
           </div>
 
-          {/* Original photo cluster on desktop; hidden on phones, where it read as noise. */}
+          {/* Original photo cluster on desktop; hidden on phones, where it read as noise – and not preloaded, so phones never fetch it. */}
           <div className="relative hidden lg:col-span-5 lg:block">
             <div className="grid grid-cols-[1.35fr_1fr] gap-3">
-              <VideoCard id={SITE.video.id} title={SITE.video.title} poster={SITE.video.poster} posterAlt={`${SITE.owner}, ${SITE.ownerRole} von NRW-Haushaltsauflösung`} priority className="row-span-2" aspect="aspect-[3/4.3]" />
+              <VideoCard id={SITE.video.id} title={SITE.video.title} poster={SITE.video.poster} posterAlt={`,  von NRW-Haushaltsauflösung`} className="row-span-2" aspect="aspect-[3/4.3]" />
               <div className="relative overflow-hidden rounded-[1.5rem] shadow-soft">
-                <Image src="/images/wp/2026-02-nrw.webp" alt="NRW Haushaltsauflösung Team beim Abbau einer Küche" width={607} height={867} sizes="240px" quality={80} priority className="h-full w-full object-cover" />
+                <Image src="/images/wp/2026-02-nrw.webp" alt="NRW Haushaltsauflösung Team beim Abbau einer Küche" width={607} height={867} sizes="240px" quality={80} className="h-full w-full object-cover" />
               </div>
               <div className="relative overflow-hidden rounded-[1.5rem] shadow-soft">
                 <Image src="/images/wp/2026-02-nrw2.webp" alt="Zwei Mitarbeiter von NRW Haushaltsauflösung beim High-Five vor dem Transporter" width={602} height={832} sizes="240px" quality={80} className="h-full w-full object-cover" />
