@@ -166,7 +166,7 @@ export function ContactSection({ id = "kontakt", title = "Jetzt kostenlose Besic
               </li>
             </ul>
             <div className="mt-8 flex items-center gap-4">
-              <Image src="/images/wp/2021-01-marco2.webp" alt={SITE.owner} width={56} height={56} className="h-14 w-14 rounded-full object-cover object-top" />
+              <Image src="/images/marco-portrait.webp" alt={SITE.owner} width={56} height={56} className="h-14 w-14 rounded-full object-cover object-top" />
               <p className="text-sm text-sage-200"><strong className="block text-base text-white">{SITE.owner}, {SITE.ownerRole}</strong>„Sie erhalten direkt bei der Besichtigung ein kostenloses, unverbindliches Festpreisangebot.“</p>
             </div>
           </div>

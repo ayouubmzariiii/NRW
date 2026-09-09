@@ -36,7 +36,7 @@ export default function KontaktPage() {
             </ul>
 
             <div className="mt-8 flex items-start gap-4 rounded-3xl bg-forest-950 p-5 text-white">
-              <Image src="/images/wp/2021-01-marco2.webp" alt={SITE.owner} width={64} height={64} className="h-16 w-16 rounded-2xl object-cover object-top" />
+              <Image src="/images/marco-portrait.webp" alt={SITE.owner} width={64} height={64} className="h-16 w-16 rounded-2xl object-cover object-top" />
               <div>
                 <p className="font-semibold">{SITE.owner}, {SITE.ownerRole}</p>
                 <p className="mt-1 text-sm text-sage-200">„Wir sind 24 Stunden am Tag erreichbar, an jedem Tag des Jahres. Sogar an Sonn- und Feiertagen machen wir keine Pause.“</p>

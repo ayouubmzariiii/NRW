@@ -25,7 +25,7 @@ export default function EinsatzgebietePage() {
         eyebrow="Einsatzgebiete"
         title="In ganz Nordrhein-Westfalen für Sie im Einsatz."
         lead={`Unser Sitz ist Düsseldorf, unser Einsatzgebiet ganz NRW: von Köln und Leverkusen über Neuss und Krefeld bis ins Ruhrgebiet und Bergische Land. ${cities.length} Städte haben eine eigene Seite – kommen Sie aus einem anderen Ort, rufen Sie einfach an.`}
-        image="/images/wp/2021-01-auto-und-marco2.webp"
+        image="/images/marco-firmenwagen-portrait.webp"
         imageAlt={`${SITE.owner} vor dem Firmenwagen von NRW-Haushaltsauflösung`}
         badge={<><p className="text-xs font-bold uppercase tracking-wider text-leaf-300">Kostenlose Anfahrt</p><p className="mt-1 font-display text-xl">Besichtigung oft noch am selben Tag</p></>}
       >

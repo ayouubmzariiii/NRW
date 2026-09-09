@@ -118,7 +118,7 @@ export default function HomePage() {
                     „Schnell, genau, diskret und professionell – das prägt unser tägliches Handeln.“
                   </p>
                   <div className="mt-6 flex items-center gap-3">
-                    <Image src="/images/wp/2021-01-marco2.webp" alt={SITE.owner} width={48} height={48} quality={85} className="h-12 w-12 rounded-full object-cover object-top ring-2 ring-white/15" />
+                    <Image src="/images/marco-portrait.webp" alt={SITE.owner} width={48} height={48} quality={85} className="h-12 w-12 rounded-full object-cover object-top ring-2 ring-white/15" />
                     <span className="text-sm"><strong className="block text-white">{SITE.owner}</strong><span className="text-sage-300">{SITE.ownerRole} · seit {SITE.founded}</span></span>
                   </div>
                 </div>

@@ -14,7 +14,7 @@ export const metadata: Metadata = buildMetadata({
   title: "Über uns – NRW Haushaltsauflösung zum Festpreis",
   description: "Seit 2010 Ihr Partner für Entrümpelung, Haushaltsauflösung und Wohnungsauflösung in NRW. Lernen Sie Marco van der Sande und das Team von NRW-Haushaltsauflösung kennen.",
   path: "/ueber-uns/",
-  image: "/images/wp/2021-01-auto-und-marco2.webp",
+  image: "/images/marco-firmenwagen-og.jpg",
 });
 
 export default function UeberUnsPage() {
@@ -29,7 +29,7 @@ export default function UeberUnsPage() {
         eyebrow="NRW Haushaltsauflösung"
         title={<>Ihr Partner für Entrümpelungen und mehr – seit {SITE.founded}.</>}
         lead="Ein ganzheitlicher Anbieter für Entrümpelungen und Haushalts-/Wohnungsauflösungen aller Art – auch Umzug, Transporte, Aktenvernichtung und Demontage. Für Privat- und Geschäftskunden in ganz NRW."
-        image="/images/wp/2021-01-auto-und-marco2.webp"
+        image="/images/marco-firmenwagen-portrait.webp"
         imageAlt={`${SITE.owner}, Inhaber von NRW-Haushaltsauflösung, vor dem Firmenwagen`}
         badge={<><p className="text-xs font-bold uppercase tracking-wider text-leaf-300">{SITE.ownerRole} · Gründer</p><p className="mt-1 font-display text-xl">{SITE.owner}</p></>}
       >
