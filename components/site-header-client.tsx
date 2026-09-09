@@ -86,7 +86,7 @@ export function NavLink({ href, prefixes, exact = [], cityPages = false, classNa
     exact.includes(pathname) ||
     (cityPages && /\/haushaltsaufloesung\/$/.test(pathname) && pathname.split("/").length === 4);
   return (
-    <Link href={href} className={clsx(className, active ? activeClassName : inactiveClassName)}>
+    <Link href={href} prefetch={false} className={clsx(className, active ? activeClassName : inactiveClassName)}>
       {children}
     </Link>
   );

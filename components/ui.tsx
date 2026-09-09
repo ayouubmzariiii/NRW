@@ -39,7 +39,8 @@ export function Button({
   if (href) {
     const external = /^(https?:|mailto:|tel:)/.test(href);
     if (external) return <a href={href} className={cls} {...(rest as ComponentProps<"a">)}>{children}</a>;
-    return <Link href={href} className={cls} {...(rest as ComponentProps<"a">)}>{children}</Link>;
+    // CTAs sit above the fold on every page; skipping viewport prefetch keeps the initial critical path lean (hover prefetch still applies).
+    return <Link href={href} prefetch={false} className={cls} {...(rest as ComponentProps<"a">)}>{children}</Link>;
   }
   return <button className={cls} {...(rest as ComponentProps<"button">)}>{children}</button>;
 }

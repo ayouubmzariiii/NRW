@@ -9,7 +9,7 @@ import clsx from "clsx";
 export function Logo({ className, inverted = false }: { className?: string; inverted?: boolean }) {
   if (inverted) {
     return (
-      <Link href="/" className={clsx("group inline-flex items-center gap-3", className)}>
+      <Link href="/" prefetch={false} className={clsx("group inline-flex items-center gap-3", className)}>
         <Image src="/logo-mark.png" alt="" width={56} height={37} className="h-9 w-auto" />
         <span className="flex flex-col leading-none">
           <span className="text-[1.3rem] font-extrabold tracking-tight text-white"><span className="text-leaf-400">NRW</span> Haushaltsauflösung</span>
@@ -20,7 +20,7 @@ export function Logo({ className, inverted = false }: { className?: string; inve
     );
   }
   return (
-    <Link href="/" className={clsx("group inline-flex shrink-0 items-center", className)}>
+    <Link href="/" prefetch={false} className={clsx("group inline-flex shrink-0 items-center", className)}>
       <Image src="/logo.png" alt="NRW-Haushaltsauflösung" width={500} height={122} priority sizes="(min-width: 1280px) 250px, 210px" className="h-12 w-auto max-w-none transition-transform duration-300 group-hover:-translate-y-0.5 sm:h-[3.25rem] lg:h-[3.5rem]" />
       <span className="sr-only">Startseite</span>
     </Link>
